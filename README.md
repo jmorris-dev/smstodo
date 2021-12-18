@@ -1,1 +1,1 @@
-SNS Todo App using Django, Docker Compose, and Twilio
+SMS Todo App using Django, Docker Compose, and Twilio
